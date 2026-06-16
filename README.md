@@ -28,7 +28,7 @@ Source: \[Video Game Sales and Ratings](https://www.kaggle.com/datasets/thedevas
 
 \- `tableau/` – Tableau Packaged Workbook (.twbx)
 
-\- `report.docx` – Final project report
+
 
 
 
