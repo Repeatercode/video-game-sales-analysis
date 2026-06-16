@@ -1,0 +1,16 @@
+# Spark / Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large datasets
+*.csv
+!sample_data.csv
+
+# Tableau temp files
+*.tde
+*.hyper
+
+# OS files
+.DS_Store
+Thumbs.db
